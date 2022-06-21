@@ -18,5 +18,5 @@
 ## Setup
 To run the predictions locally, install the libraries liste in requirements.txt and run the predictions.ipynb in jupyter notebook
 
-$ conda install --name <environment_name> --file requirements.txt
+`conda install --name <environment_name> --file requirements.txt`
 
